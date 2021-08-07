@@ -19,7 +19,7 @@ end
 class Rails < Mentor
 
  def initialize(name)
-   super("赤出")
+   super
  end
  
  def job  
